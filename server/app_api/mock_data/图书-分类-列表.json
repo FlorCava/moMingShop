@@ -1,0 +1,493 @@
+{
+  "stat": {
+    "cid": "a:24cc48|t:99|s:1478153211130",
+    "code": 0,
+    "data": "",
+    "notificationList": [],
+    "stateList": [
+      {
+        "code": 0,
+        "length": 15316,
+        "msg": "成功"
+      }
+    ],
+    "systime": 1478153211139
+  },
+  "content": [
+    {
+      "groups": [
+        {
+          "id": 774,
+          "name": "儿童读物",
+          "products": [
+            {
+              "id": 6312,
+              "imageUrl": "http://prod.image.yit.com/5/7/57ea2312eb259.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57ea23296d1b3.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 229,
+              "productName": "魔法立体书《哈利·波特》",
+              "promotionDescription": "",
+              "secondTitle": "世界经典珍藏中文版，魔幻之作，含350多个零件",
+              "stock": 1192,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57ea2312eb259.jpg"
+            },
+            {
+              "id": 1533,
+              "imageUrl": "http://prod.image.yit.com/5/7/5766ca2fb6e57.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/5766ca0cbc07e.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 490,
+              "productName": "修复民国老课本 读库",
+              "promotionDescription": "",
+              "secondTitle": "民国影响巨大的老课本《共和国教科书》 整套共17册",
+              "stock": 884,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/5766ca2fb6e57.jpg"
+            },
+            {
+              "id": 529,
+              "imageUrl": "http://prod.image.yit.com/5/7/5796c9dcb5fcc.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/5796c8d4e2c60.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 198,
+              "productName": "大自然 绘本套装 读库 ",
+              "promotionDescription": "",
+              "secondTitle": "给孩子的最美读物 一套书认识大自然 ，法国名社出版",
+              "stock": 3333,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/5796c9dcb5fcc.jpg"
+            },
+            {
+              "id": 3440,
+              "imageUrl": "http://prod.image.yit.com/5/7/578bee4315886.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/578bee4209a12.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 198,
+              "productName": "多媒体音乐启蒙书 乐器总动员 读小库",
+              "promotionDescription": "",
+              "secondTitle": "AR效果，随身携带小乐队，50种乐器可独奏合奏",
+              "stock": 1797,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/578bee4315886.jpg"
+            },
+            {
+              "id": 918,
+              "imageUrl": "http://prod.image.yit.com/5/7/574d15ad46d7e.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/574d15abb9206.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 594,
+              "productName": "0-6岁儿童绘本春季套装 读小库",
+              "promotionDescription": "",
+              "secondTitle": "给6岁以下孩子的最美绘本 ，套装内含10种绘本",
+              "stock": 763,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/574d15ad46d7e.jpg"
+            }
+          ]
+        },
+        {
+          "id": 781,
+          "name": "文学",
+          "products": [
+            {
+              "id": 6143,
+              "imageUrl": "http://prod.image.yit.com/5/7/57e38d1b75278.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57e38d2687b8b.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 128,
+              "productName": "《君士坦丁堡最后之恋》",
+              "promotionDescription": "",
+              "secondTitle": "一种全新文本 一部可用来算命的塔罗牌小说",
+              "stock": 2171,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57e38d1b75278.jpg"
+            },
+            {
+              "id": 4589,
+              "imageUrl": "http://prod.image.yit.com/5/7/57a5e9fe29fcc.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57a5e9feaee4c.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 360,
+              "productName": "护生画集 丰子恺作品 读库",
+              "promotionDescription": "",
+              "secondTitle": "被称为“佛教艺术的佳构”，共七册",
+              "stock": 774,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57a5e9fe29fcc.jpg"
+            },
+            {
+              "id": 7308,
+              "imageUrl": "http://prod.image.yit.com/5/8/5819b0b2b7a84.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/8/5819b0b23505f.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 49,
+              "productName": "特惠 《小说药丸》",
+              "promotionDescription": "",
+              "secondTitle": "300多种人生疑难杂症，统统治愈",
+              "stock": 1888,
+              "thumbnailUrl": "http://prod.image.yit.com/5/8/5819b0b2b7a84.jpg"
+            },
+            {
+              "id": 5784,
+              "imageUrl": "http://prod.image.yit.com/5/7/57c70cbcd5db8.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57c70cbc5c3f5.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 45,
+              "productName": "绘本《独生小孩》",
+              "promotionDescription": "",
+              "secondTitle": "《纽约时报》2015年度十佳绘本作品，囊括美国八项年度童书大奖",
+              "stock": 971,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57c70cbcd5db8.jpg"
+            },
+            {
+              "id": 5942,
+              "imageUrl": "http://prod.image.yit.com/5/7/57d2e409a31d6.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57d2e47f01128.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 46,
+              "productName": "特惠 《四季便当》",
+              "promotionDescription": "<p><strong style=\"line-height: 24px; white-space: normal;\"><span style=\"font-size: 14px;\"><strong style=\"color: rgb(192, 0, 0); line-height: 21px;\">一条特惠：现购买本书享一条特惠价46元（原价69元）。</strong></span></strong></p>",
+              "secondTitle": "精选40道和风便当，亚马逊kindle书店销量第一",
+              "stock": 302,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57d2e409a31d6.jpg"
+            }
+          ]
+        },
+        {
+          "id": 785,
+          "name": "生活美学",
+          "products": [
+            {
+              "id": 6199,
+              "imageUrl": "http://prod.image.yit.com/5/7/57e49b2361a2a.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57e49b23dc523.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 46,
+              "productName": "特惠 故宫日历2017年",
+              "promotionDescription": "",
+              "secondTitle": "中国最美的日历，民国时代头号社交礼物",
+              "stock": 3491,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57e49b2361a2a.jpg"
+            },
+            {
+              "id": 3255,
+              "imageUrl": "http://prod.image.yit.com/5/7/5787322f0ee88.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/5787322fa697f.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 320,
+              "productName": "蔡志忠禅画册页 读库 ",
+              "promotionDescription": "",
+              "secondTitle": "宣纸彩印，经折装，二十四开禅画，经折函装，适合珍藏",
+              "stock": 741,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/5787322f0ee88.jpg"
+            },
+            {
+              "id": 924,
+              "imageUrl": "http://prod.image.yit.com/5/7/574d2821045a3.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/legacy/upload/8e3c34635e5d48ad5021a247c1c2ac52.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 198,
+              "productName": "收藏级绘本《蝴蝶夫人》",
+              "promotionDescription": "",
+              "secondTitle": "当红插画师演绎歌剧经典， 风靡各国 展开超10米长卷",
+              "stock": 205,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/574d2821045a3.jpg"
+            },
+            {
+              "id": 922,
+              "imageUrl": "http://prod.image.yit.com/5/7/574d269e512dc.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/574d269d4bb15.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 103,
+              "productName": "笔记本《吻》+图册《读》",
+              "promotionDescription": "",
+              "secondTitle": "玛格南图片社经典作品 ，40幅吻照 ，百余幅经典阅读主题图片",
+              "stock": 781,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/574d269e512dc.jpg"
+            },
+            {
+              "id": 6474,
+              "imageUrl": "http://prod.image.yit.com/5/7/57f9a38087776.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57f8ca61ed162.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 199,
+              "productName": "无印良品生活方式书套装",
+              "promotionDescription": "",
+              "secondTitle": "追求生活品味必读，一套四本书＋授权限量定制帆布袋",
+              "stock": 681,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57f9a38087776.jpg"
+            }
+          ]
+        },
+        {
+          "id": 851,
+          "name": "人文社科",
+          "products": [
+            {
+              "id": 5842,
+              "imageUrl": "http://prod.image.yit.com/5/7/57cd146c7139a.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57cd14a638ebe.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 46,
+              "productName": "特惠 what if 那些古怪又让人忧心的问题",
+              "promotionDescription": "<p><strong style=\"color: rgb(192, 0, 0); font-size: 14px; line-height: 24px; white-space: normal;\">一条特惠：现购买书籍《what if：那些古怪又让人忧心的问题》享特价46元（原价68元）。</strong></p>",
+              "secondTitle": "比尔·盖茨推荐，脑洞科普神作",
+              "stock": 317,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57cd146c7139a.jpg"
+            },
+            {
+              "id": 7004,
+              "imageUrl": "http://prod.image.yit.com/5/8/580f00a77857c.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/8/580f02378a912.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 286,
+              "productName": "特惠 《哈佛中国史》丛书",
+              "promotionDescription": "",
+              "secondTitle": "共6册，哈佛大学出版社镇社之宝，大不一样的中国史",
+              "stock": 502,
+              "thumbnailUrl": "http://prod.image.yit.com/5/8/580f00a77857c.jpg"
+            }
+          ]
+        },
+        {
+          "id": 872,
+          "name": "文学",
+          "products": [
+            {
+              "id": 5815,
+              "imageUrl": "http://prod.image.yit.com/5/7/57caa069f23af.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57caa080cbe09.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 399,
+              "productName": "《讲谈社·中国的历史》",
+              "promotionDescription": "<p><strong style=\"color: rgb(192, 0, 0); white-space: normal;\"><span style=\"font-size: 14px;\">一条售价399元（原价500元）。</span></strong></p>",
+              "secondTitle": "日本权威学者所写 中国历史通俗读本",
+              "stock": 2308,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57caa069f23af.jpg"
+            },
+            {
+              "id": 5891,
+              "imageUrl": "http://prod.image.yit.com/5/7/57d00c6835272.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57d00c718f7c9.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 33,
+              "productName": "《消失的脚印》",
+              "promotionDescription": "<p style=\"line-height: 1.5em;\"><strong style=\"color: rgb(192, 0, 0); white-space: normal;\"><span style=\"font-size: 14px;\">一条售价33元（原价49.8元）。</span></strong></p>",
+              "secondTitle": "BBC御用摄影师 20年野外拍摄笔记",
+              "stock": 516,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57d00c6835272.jpg"
+            },
+            {
+              "id": 6148,
+              "imageUrl": "http://prod.image.yit.com/5/7/57e238bd82631.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57e238a89775c.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 39,
+              "productName": "特惠 《二手时间》",
+              "promotionDescription": "",
+              "secondTitle": "诺贝尔文学奖作者，苏联红色思想的历史演变",
+              "stock": 398,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57e238bd82631.jpg"
+            }
+          ]
+        },
+        {
+          "id": 881,
+          "name": "艺术",
+          "products": [
+            {
+              "id": 6359,
+              "imageUrl": "http://prod.image.yit.com/5/7/57ef4a9697650.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57ef4a8f6b2dd.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 320,
+              "productName": "《S-向京 2012-2016》画册",
+              "promotionDescription": "",
+              "secondTitle": "83张作品图及艺术家创作阐述文字，包含未展出的作品",
+              "stock": 949,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57ef4a9697650.jpg"
+            },
+            {
+              "id": 5830,
+              "imageUrl": "http://prod.image.yit.com/5/7/57cbc424d38e4.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57cbc4316dc5e.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 61,
+              "productName": "特惠 《梵高手稿》",
+              "promotionDescription": "<p><strong style=\"color: rgb(192, 0, 0); font-size: 14px; line-height: 21px; white-space: normal;\">一条特惠：现购买本书享一条特惠价61元（原价88元）。</strong></p>",
+              "secondTitle": "让梵高的书信和画作手稿带你走进艺术大师的世界",
+              "stock": 365,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57cbc424d38e4.jpg"
+            },
+            {
+              "id": 5866,
+              "imageUrl": "http://prod.image.yit.com/5/7/57ce8b9903bb7.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57ce8b7d55acf.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 61,
+              "productName": "图解欧洲艺术史",
+              "promotionDescription": "",
+              "secondTitle": "意大利权威出版社Electa推出，400多张彩图",
+              "stock": 644,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57ce8b9903bb7.jpg"
+            },
+            {
+              "id": 5908,
+              "imageUrl": "http://prod.image.yit.com/5/7/57d1676662aa8.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57d16767738ea.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 95,
+              "productName": "特惠 大都会艺术博物馆指南",
+              "promotionDescription": "<p><strong style=\"color: rgb(192, 0, 0); font-size: 14px; line-height: 24px; white-space: normal;\">一条特惠：现购买大都会艺术博物馆指南享特价95元（原价138元）。</strong></p>",
+              "secondTitle": "30年来首次重新编纂，精选600件珍贵馆藏",
+              "stock": 640,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57d1676662aa8.jpg"
+            },
+            {
+              "id": 6651,
+              "imageUrl": "http://prod.image.yit.com/5/7/57ff211958a66.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57ff2119df3fb.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 799,
+              "productName": "特惠 文房珍笈·明刊墨谱双璧（珍藏版）",
+              "promotionDescription": "<p><strong style=\"color: rgb(192, 0, 0); font-size: 14px; line-height: 24px; white-space: normal;\">一条特惠：现购买享特价799元（原价980元）。</strong></p>",
+              "secondTitle": "两套墨谱合集，古法线装，赠限量版定制墨条",
+              "stock": 255,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57ff211958a66.jpg"
+            }
+          ]
+        },
+        {
+          "id": 903,
+          "name": "自然科学总论",
+          "products": [
+            {
+              "id": 6337,
+              "imageUrl": "http://prod.image.yit.com/5/7/57ef51f568550.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57ef51ce14d2e.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 88,
+              "productName": "特惠 发现瑰丽的植物",
+              "promotionDescription": "<p><strong style=\"color: rgb(192, 0, 0); font-size: 14px; line-height: 24px; white-space: normal;\">一条特惠：现购买发现瑰丽的植物享特惠价88元（原价98元）。</strong></p>",
+              "secondTitle": "12位博物学家的珍贵手绘插图，最精美的植物手绘",
+              "stock": 348,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57ef51f568550.jpg"
+            }
+          ]
+        },
+        {
+          "id": 957,
+          "name": "建筑艺术",
+          "products": [
+            {
+              "id": 5814,
+              "imageUrl": "http://prod.image.yit.com/5/7/57c94ff5c981a.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57c95002e1d81.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 82,
+              "productName": "《穿墙透壁》",
+              "promotionDescription": "<p><strong style=\"color: rgb(192, 0, 0); white-space: normal;\"><span style=\"font-size: 14px;\">一条售价82元（原价118元）。</span></strong></p>",
+              "secondTitle": "剖视中国经典古建筑",
+              "stock": 798,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57c94ff5c981a.jpg"
+            }
+          ]
+        },
+        {
+          "id": 1050,
+          "name": "名作经典",
+          "products": [
+            {
+              "id": 3251,
+              "imageUrl": "http://prod.image.yit.com/5/7/57872ad0dbc06.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57872e7b3dde6.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 82,
+              "productName": "图像中国建筑史 手绘图线装版 梁思成 读库",
+              "promotionDescription": "",
+              "secondTitle": "首次依原件翻拍再版，五十九幅装",
+              "stock": 815,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/57872ad0dbc06.jpg"
+            },
+            {
+              "id": 3257,
+              "imageUrl": "http://prod.image.yit.com/5/7/5787338214e08.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/5787332e5c06c.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 76,
+              "productName": "图像中国建筑史 手绘图活页装 梁思成 读库",
+              "promotionDescription": "",
+              "secondTitle": "活页图纸方便单页欣赏，整套珍藏，五十九幅全手绘",
+              "stock": 1524,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/5787338214e08.jpg"
+            },
+            {
+              "id": 3264,
+              "imageUrl": "http://prod.image.yit.com/5/7/578739664dbad.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57873965b3cd2.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 98,
+              "productName": "佩文斋耕织图 读库 ",
+              "promotionDescription": "",
+              "secondTitle": "内含《〈耕织图〉流变》，图案精美，纤毫毕现，农桑传习经典之作",
+              "stock": 966,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/578739664dbad.jpg"
+            },
+            {
+              "id": 3271,
+              "imageUrl": "http://prod.image.yit.com/5/7/579dad5f8108b.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/57873e702affe.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 68,
+              "productName": "城南旧事大开本 读库",
+              "promotionDescription": "",
+              "secondTitle": "布面精装，唯美插图版，附有声书",
+              "stock": 467,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/579dad5f8108b.jpg"
+            },
+            {
+              "id": 3277,
+              "imageUrl": "http://prod.image.yit.com/5/7/5787473d6a503.jpg",
+              "mainImageUrl": "http://prod.image.yit.com/5/7/5787473656e96.jpg",
+              "marketPrice": 0,
+              "onSale": true,
+              "price": 66,
+              "productName": "城南旧事 小开本三册套装 读库",
+              "promotionDescription": "",
+              "secondTitle": " 三册套装，最美插图版，附有声书",
+              "stock": 590,
+              "thumbnailUrl": "http://prod.image.yit.com/5/7/5787473d6a503.jpg"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

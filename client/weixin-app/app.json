@@ -1,0 +1,42 @@
+{
+  "pages":[
+    "pages/shop/shop",
+    "pages/product_detail/product_detail",
+    "pages/index/index",
+    "pages/logs/logs"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "墨铭社",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#888888",
+    "selectedColor": "#000000",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "pages/shop/shop",
+      "iconPath": "image/ic_card_giftcard_grey.png",
+      "selectedIconPath": "image/ic_card_giftcard_black.png",
+      "text": "精选"
+    }, {
+      "pagePath": "pages/index/index",
+      "iconPath": "image/ic_library_books_grey.png",
+      "selectedIconPath": "image/ic_library_books_black.png",
+      "text": "故事"
+    }, {
+      "pagePath": "pages/index/index",
+      "iconPath": "image/ic_search_grey.png",
+      "selectedIconPath": "image/ic_search_black.png",
+      "text": "发现"
+    }, {
+      "pagePath": "pages/index/index",
+      "iconPath": "image/ic_perm_identity_grey.png",
+      "selectedIconPath": "image/ic_perm_identity_black.png",
+      "text": "我的"
+    }]
+  }
+}

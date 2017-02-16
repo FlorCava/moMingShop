@@ -1,0 +1,30 @@
+<view class="page">
+    <view class="page__bd">
+        <view class="weui-tab">
+            <view class="weui-navbar">
+            <view>
+            <scroll-view scroll-x="true" style="white-space:nowrap;display:flex;flex-flow:row nowrap;" >
+                <block wx:for="{{categories}}" wx:key="index">
+                    <view id="category{{index}}" data-value="{{item.category_id}}" style="display: inline-block;padding-right:50rpx;" class="weui-navbar__item {{activeIndex == 'category'+index ? 'weui-bar__item_on' : ''}}" bindtap="tabClick">
+                        <view class="weui-navbar__title">{{item.name}}</view>
+                    </view>
+                </block>
+                <view class="weui-navbar__slider" style="left: {{sliderLeft}}px; transform: translateX({{sliderOffset}}px); -webkit-transform: translateX({{sliderOffset}}px);"></view>
+             </scroll-view> 
+             </view>
+            </view>
+            <view class="pre-list">
+                <block wx:for="{{category_products}}" wx:key="product_id">
+                <view class="pre-item"  bindtap="bindShowProductDetail" data-id="{{item.product_id}}" >
+                    <image class="pre-img" src="{{item['baseImage']}}" mode="scaleToFill"></image>    
+                    <view class="pre-info">
+                    <view class="pre-name">{{item.product_name}}</view>
+                    <view class="pre-subtitle">{{item.second_title}}</view>
+                    <view class="pre-price">¥{{item.price}}</view>
+                    </view>
+                </view>
+                </block>
+            </view>
+        </view>
+    </view>
+</view>

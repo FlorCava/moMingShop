@@ -1,0 +1,323 @@
+{
+  "stat": {
+    "cid": "a:24cc48|t:163|s:1478152571316",
+    "code": 0,
+    "data": "",
+    "notificationList": [],
+    "stateList": [
+      {
+        "code": 0,
+        "length": 9941,
+        "msg": ""
+      }
+    ],
+    "systime": 1478152571321
+  },
+  "content": [
+    {
+      "product_lists": [
+        {
+          "image_url": "http://prod.image.yit.com//5/7/579b100ff409a.jpg",
+          "price": "1199",
+          "product_id": "4410",
+          "product_name": "双11特惠 智能手表 经典系列 Ticwatch2",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "中文语音交互，支持3G通讯",
+          "sku": "7-2-1-197-0001",
+          "stock": "2305",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/578490c3b9058.jpg",
+          "price": "2799",
+          "product_id": "3134",
+          "product_name": "双11特惠 西藏墨脱手工皂石锅 大好设计河山",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "附送高品质软木锅垫",
+          "sku": "2-1-1-83-0006",
+          "stock": "47",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/5760aab678eb6.jpg",
+          "price": "699",
+          "product_id": "1448",
+          "product_name": "智能体质分析仪 茉MO",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "苹果前首席设计师Robert Brunner设计， 孕妇安全模式",
+          "sku": "7-2-3-96-0002",
+          "stock": "67",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/8/5805af250584d.jpg",
+          "price": "399",
+          "product_id": "6841",
+          "product_name": "双11特惠 nox音乐助眠灯 Sleepace享睡",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "助眠灯＋蓝牙音箱，1600万色灯光，智能唤醒",
+          "sku": "7-2-5-283-0003",
+          "stock": "1663",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57e34bccead5a.jpg",
+          "price": "358",
+          "product_id": "6192",
+          "product_name": "特惠 阳澄湖牌大闸蟹礼盒",
+          "product_type": "configurable",
+          "promotion_desc": "<p><strong style=\"color: rgb(192, 0, 0); font-size: 14px; line-height: 24px; white-space: normal;\">一条特惠：现购买大闸蟹享受9折优惠。</strong></p>",
+          "second_title": "肉肥鲜甜，有机养殖全程可追踪",
+          "sku": "9-2-3-254-0001",
+          "stock": "59292",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/8/580c3357daedb.jpg",
+          "price": "368",
+          "product_id": "6453",
+          "product_name": "Tagplate超薄充电宝 NuAns",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "6000毫安容量，移动电源，自带充电线",
+          "sku": "7-5-4-273-0001",
+          "stock": "151",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/8/58059256aa524.jpg",
+          "price": "680",
+          "product_id": "6800",
+          "product_name": "四件套茶杯 夫人瓷",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "强化瓷制成，国宴食器，精致设计四件套",
+          "sku": "2-2-C-282-0036",
+          "stock": "833",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/8/580f00bf58047.jpg",
+          "price": "337",
+          "product_id": "4711",
+          "product_name": "双11特惠 彩虹九厨具套装 Joseph Joseph",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "九件套装，一体收纳，节省空间，多种功能",
+          "sku": "6-2-3-200-0025",
+          "stock": "845",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/8/58079b7cc4a64.jpg",
+          "price": "239",
+          "product_id": "6872",
+          "product_name": "双11特惠 X3声波电动牙刷 Soocare素士",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "超强清洁力，刷牙模式个性定制",
+          "sku": "D-5-2-281-0001",
+          "stock": "6388",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57ea3a8bc788a.jpg",
+          "price": "69",
+          "product_id": "6316",
+          "product_name": "双11特惠 多功能生物清洁膏 clerex",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "来自德国，清洁上光防雾三效合一，安全程度达到可食用级别",
+          "sku": "4-5-5-262-0002",
+          "stock": "576",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57fb96f303efb.jpg",
+          "price": "1598",
+          "product_id": "5986",
+          "product_name": "双11特惠 贴耳式蓝牙耳机 Libratone小鸟音响出品",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "全球独家首发 云灰/雅黑/麦黄三色可选",
+          "sku": "7-1-3-129-0005",
+          "stock": "478",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57dfba6b10d0b.jpg",
+          "price": "63",
+          "product_id": "6093",
+          "product_name": "双11特惠 口腔抗菌喷雾 益我妙",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "口腔喷雾2支装，健康安全可吞咽，清洁细菌，预防蛀牙",
+          "sku": "D-5-9-248-0002",
+          "stock": "6727",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57e483fcaa0f8.jpg",
+          "price": "198",
+          "product_id": "6117",
+          "product_name": "经典害羞邦尼兔毛绒玩具 jELLYCAT",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "孩童成人均可拥有，可水洗，亲肤材质，明星同款",
+          "sku": "I-1-2-251-0001",
+          "stock": "822",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57e38d1b75278.jpg",
+          "price": "128",
+          "product_id": "6143",
+          "product_name": "《君士坦丁堡最后之恋》",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "一种全新文本 一部可用来算命的塔罗牌小说",
+          "sku": "8-2-1-12-0002",
+          "stock": "2172",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57629467d416f.jpg",
+          "price": "399",
+          "product_id": "1513",
+          "product_name": "小王子收音机 猫王",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "蓝牙音箱， 一条特别定制款，  “中国胆机之父”曾德钧设计",
+          "sku": "7-1-1-97-0003",
+          "stock": "3473",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57c3ad8104382.jpg",
+          "price": "798",
+          "product_id": "5716",
+          "product_name": "双11特惠 养生壶 北鼎 ONE联名款",
+          "product_type": "configurable",
+          "promotion_desc": "<p style=\"white-space: normal; line-height: 1.5em;\"><span style=\"color: rgb(192, 0, 0);\"><strong><span style=\"font-size: 14px;\"></span></strong></span></p><p style=\"white-space: normal; line-height: 1.5em;\"><span style=\"color: rgb(192, 0, 0);\"><strong><span style=\"font-size: 14px;\"></span></strong></span></p><p style=\"white-space: normal; line-height: 1.5em;\"><span style=\"color: rgb(192, 0, 0);\"><strong><span style=\"font-size: 14px;\"></span></strong></span></p><p style=\"white-space: normal; line-height: 1.5em;\"><span style=\"line-height: 24px; color: rgb(192, 0, 0);\"><strong><span style=\"font-size: 14px;\">一条福利：</span></strong></span><strong style=\"line-height: 24px; white-space: normal;\"><span style=\"font-size: 14px; color: rgb(192, 0, 0);\">前500只壶一年内损坏只换不修<strong style=\"line-height: 24px; white-space: normal;\"><span style=\"font-size: 14px; color: rgb(192, 0, 0);\">（指首年非人为损坏壶身或底座的情况）</span></strong>。</span></strong><span style=\"color: rgb(192, 0, 0);\"><strong><span style=\"font-size: 14px;\"></span></strong></span></p>",
+          "second_title": "烧水、煮茶、烧粥神器 德国进口肖特玻璃 英国进口温控器",
+          "sku": "G-3-2-233-0001",
+          "stock": "78",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57baa17e31b99.jpg",
+          "price": "599",
+          "product_id": "4823",
+          "product_name": "双11特惠 一泊二日Plus双肩包 JNE",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "像旅行箱一样收纳功能强大，军用面料，四色可选，含配套摄影包",
+          "sku": "5-5-3-105-0018",
+          "stock": "366",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57a5e9fe29fcc.jpg",
+          "price": "360",
+          "product_id": "4589",
+          "product_name": "护生画集 丰子恺作品 读库",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "被称为“佛教艺术的佳构”，共七册",
+          "sku": "8-2-4-12-0002",
+          "stock": "774",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/5796368d22064.jpg",
+          "price": "268",
+          "product_id": "4082",
+          "product_name": "8.5寸液晶手写板 Boogie Board jot 8.5",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "美国原装 无需充电 带磁性可吸附冰箱 ",
+          "sku": "7-2-191-0006",
+          "stock": "466",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/5795bd933a4b6.jpg",
+          "price": "298",
+          "product_id": "4079",
+          "product_name": "双11特惠 蒙马特防盗城市背包 XD Design",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "安全 舒适 便捷 快速存取 手机随充 完美都市双肩包",
+          "sku": "5-5-3-193-0017",
+          "stock": "4585",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57931ac6e6297.jpg",
+          "price": "699",
+          "product_id": "4021",
+          "product_name": "魔纸琴 智能音乐早教玩具 么啊宝宝",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "启发宝宝一生必备的5大乐感 一岁半到6岁宝宝适用",
+          "sku": "7-2-190-0005",
+          "stock": "3629",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/57cd4de31d5a0.jpg",
+          "price": "358",
+          "product_id": "1072",
+          "product_name": " 长柄伞 不伞－不散 稀奇 ",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "天使雕塑手柄 ，瞿广慈作品， 年轻人买的起的艺术品",
+          "sku": "F-7-1-76-0001",
+          "stock": "43",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/578f16f80c48a.jpg",
+          "price": "158",
+          "product_id": "3719",
+          "product_name": "夏宫雷司令干白葡萄酒",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "100%摩泽尔雷司令 ",
+          "sku": "3-B-4-175-0001",
+          "stock": "821",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/5771d97299b4f.jpg",
+          "price": "190",
+          "product_id": "1530",
+          "product_name": "衣物去渍系列 The Laundress",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "有效去除衣物的顽固污渍，新旧污渍和黄渍",
+          "sku": "4-5-1-78-0004",
+          "stock": "245",
+          "yitiao_sales_limit": "0"
+        },
+        {
+          "image_url": "http://prod.image.yit.com//5/7/575c43696d617.jpg",
+          "price": "99",
+          "product_id": "1338",
+          "product_name": "好味礼盒套装 十六盏 ",
+          "product_type": "configurable",
+          "promotion_desc": "",
+          "second_title": "臻味全素系列四种口味 ，荟萃中华系列四种口味",
+          "sku": "9-8-1-88-0002",
+          "stock": "987",
+          "yitiao_sales_limit": "0"
+        }
+      ],
+      "total_pages": 1
+    }
+  ]
+}

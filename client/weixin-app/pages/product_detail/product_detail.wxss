@@ -1,0 +1,45 @@
+page,
+
+.page, 
+.page__bd{
+    height: 100%;
+    background-color: #f9f9f9;
+}
+
+.swiper{
+    width: 100%;
+    text-align: center;
+}
+
+.product-show {
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.product-show .product-info {
+    padding: 20px 10px;
+    border-top: 1px solid #ddd;
+}
+
+.product-show .name {
+    font-size: 16px;
+}
+
+.product-show .price {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #ad0e11;
+}
+
+.weui-navbar .active {
+    color: #ad0e11;
+}
+
+.weui-footer_fixed-bottom{
+    margin-bottom: 0;
+    height: 80rpx;
+    color: #666;
+    font-size: 24rpx;
+    border-top: 1px solid #ddd;
+    background: #f9f9f9;
+}

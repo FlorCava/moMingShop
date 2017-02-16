@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Roboto Light'), local('Roboto-Light'), url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('../fonts/Roboto/Roboto-Medium.ttf') format('woff');
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*body {*/
+    /*padding-top: 50px;*/
+    /*font-size: 13px;*/
+    /*line-height: 20px;*/
+/*}*/
+
+.page-thumb-block {
+    position: relative;
+    width: 140px;
+    height: 165px;
+    margin: 0 10px;
+    border-top: 4px #ececec solid;
+    border-left: 4px #ececec solid;
+    border-right: 4px #ececec solid;
+    border-bottom: 30px #ececec solid;
+}
+
+.page-thumb {
+    position: absolute;
+    top: 1.5rem;
+    left: 1rem;
+    width: 640px;
+    height: 1008px;
+    background: #fff;
+    -webkit-transform: scale(0.13);
+    transform: scale(0.13);
+    margin-top: -457px;
+    margin-left: -265px;
+}
+
+.page-thumb-elements {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.page-thumb-elements .page-thumb-element {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.edit_area {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 486px;
+    position: absolute;
+    text-align: left;
+    top: 0;
+    width: 320px;
+}
+
+.edit_area > li {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 center;
+    color: #676767;
+    line-height: 1;
+    list-style: outside none none !important;
+    margin: 0 !important;
+    min-height: 24px;
+    min-width: 50px;
+    padding: 0;
+    position: absolute;
+    transition: padding 0.5s ease 0s;
+    width: 100%;
+}
+
+.card {
+    position: relative;
+    z-index: 1;
+    background: #fff;
+    width: 100%;
+    padding: 10px 10px 10px 15px;
+    margin: 0 0 10px 0;
+    overflow: auto;
+    border: 1px solid #e5e5df;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+}
+
+.card.big {
+    position: absolute;
+    width: 450px;
+    height: 200px;
+    margin: auto;
+    padding: 15px;
+    top: 0;
+    left: 0;
+    bottom: 100px;
+    right: 0;
+    z-index: 3;
+}

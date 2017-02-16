@@ -1,0 +1,140 @@
+{
+  "stat": {
+    "cid": "a:24cc48|t:130|s:1478153210945",
+    "code": 0,
+    "data": "",
+    "notificationList": [],
+    "stateList": [
+      {
+        "code": 0,
+        "length": 3111,
+        "msg": ""
+      }
+    ],
+    "systime": 1478153210948
+  },
+  "content": [
+    {
+      "value": [
+        {
+          "brands": [],
+          "created_at": "2016-05-31 18:21:59",
+          "gather_id": "3",
+          "gather_url": "/product.html?product_id=5815",
+          "image_url": "http://prod.image.yit.com/gather/58101a3b371232.12787291.jpg",
+          "items_two": [
+            {
+              "image_url": "http://prod.image.yit.com//5/8/58189a0e635d9.jpg",
+              "price": "399",
+              "product_url": "/product.html?product_id=7335",
+              "sort": "61",
+              "title": " 特惠 最美最美的中国童话"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/8/580cb65825370.jpg",
+              "price": "73",
+              "product_url": "/product.html?product_id=6934",
+              "sort": "60",
+              "title": "特惠 生肖日历：2017锦鸡吉祥"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/8/580998606f211.jpg",
+              "price": "75",
+              "product_url": "/product.html?product_id=6914",
+              "sort": "59",
+              "title": "特惠 《如何看一幅画》 I&II"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/8/580625f9c34c2.jpg",
+              "price": "149",
+              "product_url": "/product.html?product_id=6809",
+              "sort": "58",
+              "title": "特惠 《深泽直人》设计大师撰写"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/57ff05cfe1fed.jpg",
+              "price": "799",
+              "product_url": "/product.html?product_id=6651",
+              "sort": "57",
+              "title": "特惠 文房珍笈·明刊墨谱双璧（珍藏版）"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/57ef9e37dbefd.jpg",
+              "price": "88",
+              "product_url": "/product.html?product_id=6379",
+              "sort": "56",
+              "title": "特惠 2017文艺复古日历 联邦走马"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/8/5801baa730fa1.jpg",
+              "price": "129",
+              "product_url": "/product.html?product_id=6745",
+              "sort": "55",
+              "title": "特惠 一本ONE日历 ONE x 晨光优品"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/5787222b78348.jpg",
+              "price": "320",
+              "product_url": "/product.html?product_id=3245",
+              "sort": "54",
+              "title": "丰子恺画片 读库  "
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/57ea23296d1b3.jpg",
+              "price": "229",
+              "product_url": "/product.html?product_id=6312",
+              "sort": "50",
+              "title": "魔法立体书《哈利·波特》"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/57e38d2687b8b.jpg",
+              "price": "128",
+              "product_url": "/product.html?product_id=6143",
+              "sort": "50",
+              "title": "《君士坦丁堡最后之恋》算命的塔罗牌小说"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/57e49b23dc523.jpg",
+              "price": "46",
+              "product_url": "/product.html?product_id=6199",
+              "sort": "47",
+              "title": "特惠 故宫日历2017年"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/57cea0af62255.jpg",
+              "price": "399",
+              "product_url": "/product.html?product_id=5873",
+              "sort": "46",
+              "title": "特惠 大师原典七卷套装"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/57a5e9feaee4c.jpg",
+              "price": "360",
+              "product_url": "/product.html?product_id=4589",
+              "sort": "39",
+              "title": "护生画集 丰子恺作品 "
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/57c70cc9689f5.jpg",
+              "price": "45",
+              "product_url": "/product.html?product_id=5784",
+              "sort": "24",
+              "title": "绘本《独生小孩》十佳绘本"
+            },
+            {
+              "image_url": "http://prod.image.yit.com//5/7/5766c964f2134.jpg",
+              "price": "490",
+              "product_url": "/product.html?product_id=1533",
+              "sort": "16",
+              "title": "史上影响最大的民国老课本"
+            }
+          ],
+          "more_url": "/search_list.html?sr_id=1&title=图书",
+          "sort": "109",
+          "title": "必读好书",
+          "updated_at": "2016-11-03 09:58:48"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+page,
+.page,
+.page__bd{
+    height: 100%;
+    background-color: #f9f9f9;
+}
+.page__bd{
+    padding-bottom: 0;
+}
+.weui-tab__content{
+    padding-top: 60px;
+    text-align: center;
+}
+
+.pre-list {
+    padding-top: 120rpx;
+    text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /*margin-bottom: 100rpx;*/
+}
+
+.pre-item {
+  width: 335rpx;
+  margin-bottom: 20rpx;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  font-size: 30rpx;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+}
+
+.pre-item .pre-img {
+  width: 335rpx;
+  height: 335rpx;
+  margin-bottom: 10rpx;
+}
+
+.pre-item .pre-info{
+    margin: 10rpx;
+}
+
+.pre-item .pre-info .pre-name{
+    font-size: 30rpx;
+    line-height: 48rpx;
+    height: 48rpx;
+    overflow: hidden;
+    color: #333;
+}
+.pre-item .pre-info .pre-subtitle{
+    font-size: 24rpx;
+    line-height: 40rpx;
+    height: 80rpx;
+    overflow: hidden;
+    color: #7f7f7f;
+}
+.pre-item .pre-info .pre-price{
+    font-size: 24rpx;
+    font-family: Helvetica;
+    color: #ad0e11;
+    position: relative;
+}

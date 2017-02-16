@@ -1,0 +1,82 @@
+<import src="../../components/wxParse/wxParse.wxml"/> 
+<view class="page">
+    <view class="page__bd">
+        <view class="product-show">
+            <swiper class="swiper" indicator-dots="true"
+            autoplay="true" interval="5000" duration="1000">
+            <block wx:for="{{product.images}}" wx:key="{{index}}">
+                <swiper-item>
+                <image src="{{item}}" width="100%" height="150"/>
+                </swiper-item>
+            </block>
+            </swiper>
+            <view class="product-info">
+                <view class="name">
+                    {{product.product_name}} {{product.second_title}}
+                </view>
+                <view class="price">
+                    ¥{{product.price}}
+                </view>
+            </view>
+        </view>
+        <view class="weui-tab">
+            <view class="weui-navbar">
+                <view id="tab0" class="weui-navbar__item {{tabActiveIndex == 'tab0' ? 'active' : ''}}" bindtap="tabClick">
+                    <view class="weui-navbar__title">图文介绍</view>
+                </view>
+                <view id="tab1" class="weui-navbar__item {{tabActiveIndex == 'tab1' ? 'active' : ''}}" bindtap="tabClick">
+                    <view class="weui-navbar__title">规格参数</view>
+                </view>
+                <view id="tab2" class="weui-navbar__item {{tabActiveIndex == 'tab2' ? 'active' : ''}}" bindtap="tabClick">
+                    <view class="weui-navbar__title">包装售后</view>
+                </view>
+            </view>
+            <view class="weui-tab__panel">
+                <view class="weui-tab__content" hidden="{{tabActiveIndex != 'tab0'}}">
+                    <template is="wxParse" data="{{wxParseData:wx_description.tagArray}}"/>
+                </view>
+                <view class="weui-tab__content" hidden="{{tabActiveIndex != 'tab1'}}">
+                    <template is="wxParse" data="{{wxParseData:wx_product_specification.tagArray}}"/>
+                </view>
+                <view class="weui-tab__content" hidden="{{tabActiveIndex != 'tab2'}}">
+                    <template is="wxParse" data="{{wxParseData:wx_sales_support.tagArray}}"/>
+                </view>
+            </view>
+        </view>
+        <view class="weui-footer weui-footer_fixed-bottom">
+        <view style="display: flex;padding-top:10rpx;">
+            <view style="width:100rpx;text-align:center;border-right: 1px solid #ddd;">
+                <navigator url="" >
+                    <image src="../../image/ic_card_giftcard_grey.png"
+                        style="width:30rpx;height:30rpx;"/>
+                    <text style="display:block;line-height:25rpx;">首页</text>
+                </navigator>
+            </view>
+            <view style="width:100rpx;text-align:center;border-right: 1px solid #ddd;">
+                <navigator url="" >
+                    <image src="../../image/ic_shopping_basket_grey.png"
+                        style="width:30rpx;height:30rpx;"/>
+                    <text style="display:block;line-height:25rpx;">购物袋</text>
+                </navigator>
+            </view>
+            <view style="width:100rpx;text-align:center;border-right: 1px solid #ddd;">
+                <navigator url="" >
+                    <image src="../../image/ic_chat_grey.png"
+                        style="width:30rpx;height:30rpx;"/> 
+                    <text style="display:block;line-height:25rpx;">客服</text>
+                </navigator>
+            </view>
+            <view style="width:225rpx;text-align:center;border-right: 1px solid #ddd;">
+                <navigator url="" >
+                    <text style="display:block;height:70rpx;line-height:70rpx;">加入购物袋</text>
+                </navigator>
+            </view>
+            <view style="width:225rpx;text-align:center;">
+                <navigator url="" >
+                    <text style="display:block;height:70rpx;line-height:70rpx;">立即购买</text>
+                </navigator>
+            </view>
+            </view>
+        </view>
+    </view>
+</view>
